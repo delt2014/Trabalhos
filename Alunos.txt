@@ -1,20 +1,10 @@
 Atividade 01
 
-Diogo Muneratto_________________RA: 06008893
-Everton da Silva Proença________RA: 06008878
-Leandro Oliveira Moreira________RA: 06008877
-Tiago Ferrari___________________RA: 06008891
-=============================================
+Diogo Muneratto -> RA: 06008893
 
-Atividade 02
+Everton da Silva Proença -> RA: 06008878
 
-evertonproenca
-github.com/evertonproenca
------------------------------
+Leandro Oliveira Moreira -> RA: 06008877
 
-ferrary102
-https://github.com/ferrary102
------------------------------
-
-leandrostpr
-https://github.com/leandrostpr
+Tiago Ferrari -> RA: 06008891
+-----------------------------------------------
